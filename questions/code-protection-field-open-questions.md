@@ -50,6 +50,7 @@ open gaps are tracked in [[re-research-gaps-to-verify]]. Status stays open until
 are done.
 
 1. Market size: use Karla's sourced records in [[code-protection-evidence-index]]; drop $16.2B.
+   Pitch funnel built from them: [[re-market-sizing-tam-sam-som]].
    [[re-in-app-protection-16b-figure-has-no-source]], [[re-code-protection-vendors-mostly-pe-owned]],
    [[re-compliance-requires-resilience-not-method]].
 2. Incumbent claims about machine analysis: Thales and Promon publish agent and LLM studies
