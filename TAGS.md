@@ -13,3 +13,5 @@ One tag per line, `- tag: meaning`. `scripts/kb.py check` rejects tags missing h
 - idea: candidate directions, kept or dropped
 - demo: what we show and how
 - human: needs a human answer
+- security: software protection, attacker behaviour, security buyers
+- formal-methods: proofs, equivalence checking, solvers
