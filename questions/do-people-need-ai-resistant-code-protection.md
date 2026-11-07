@@ -174,7 +174,7 @@ Notes, one per hypothesis, plus the adjacent row and the shortlist. Quotes in th
 - A1 [[reddit-comments-say-llms-undo-basic-obfuscation]]
 - A2 [[reddit-client-side-protection-spend-is-mixed]]
 - A3 [[reddit-obfuscation-breakage-shows-up-as-crashes-and-maintenance]]
-- A4 [[reddit-sweep-found-no-ask-for-an-ai-crack-score]]
+- A4 [[reddit-sweep-found-no-ask-for-an-ai-crack-score]] records sweep 1 only. Sweep 2 contradicts it: [[reddit-sweep-2-people-ask-how-long-protection-holds]].
 - A5 [[reddit-sweep-found-no-incumbent-ai-attacker-marketing]]
 - B1 [[reddit-weight-backdoor-comments-name-papers-and-supply-chain]]
 - B2 [[reddit-comments-say-weight-backdoors-are-hard-to-spot]]
@@ -188,6 +188,16 @@ Notes, one per hypothesis, plus the adjacent row and the shortlist. Quotes in th
 ### Filed: market, loss, deal, survey, compliance, and gap records (karla+grok, cutoff 2026-11-07)
 
 Sourced records: [[code-protection-evidence-index]]. Schema: [[code-protection-evidence-schema]]. These are not a verdict, and they do not close this question.
+
+### Filed: Reddit sweep 2, where AI reverse engineering costs money (karla+cursor, checked 2026-11-07, Europe/Belgrade)
+
+Second listener, industries and regions, on top of the sweep above. Raw rows and the browser check: [[reddit-listener-ai-re-money-2026-11-07]]. The question those notes answer is [[where-does-ai-reverse-engineering-cost-money-reddit]]. They are not a verdict, and they do not close this question.
+
+- Launch window, desktop licences, mobile and banking shielding: [[reddit-sweep-2-game-launch-window-is-where-the-money-shows-up]], [[reddit-sweep-2-paid-desktop-apps-and-plugins-lose-local-checks]], [[reddit-sweep-2-mobile-entitlements-and-banking-shielding-trust-the-client]]
+- AI speed without a third-party loss, and game-window rows that do not name AI: [[reddit-sweep-2-ai-speed-is-not-a-reported-third-party-loss]], [[reddit-sweep-2-game-drm-timing-rows-do-not-name-ai]]
+- Objections: [[reddit-sweep-2-objection-pirated-copies-are-not-lost-sales]], [[reddit-sweep-2-objection-client-side-protection-is-called-futile]], [[reddit-sweep-2-objection-cpp-decompilation-is-still-hard-for-llms]]
+- Controversies: [[reddit-sweep-2-controversy-obscurity-or-time-bought]], [[reddit-sweep-2-controversy-ai-may-not-make-client-protection-obsolete]], [[reddit-sweep-2-controversy-studios-are-said-to-keep-paying-denuvo]], [[reddit-sweep-2-controversy-kernel-anti-cheat-called-invasive-and-ineffective]], [[reddit-sweep-2-right-to-repair-threads-not-found-owner-lockout-was]], [[reddit-sweep-2-legality-threads-not-found-except-a-lab-refusal]], [[reddit-sweep-2-open-source-the-client-posts-were-deleted]], [[reddit-sweep-2-dual-use-shows-analyst-speed-not-a-malware-argument]], [[reddit-sweep-2-formal-proof-was-not-asked-for-breakage-was]]
+- Measurement, regions, gaps, threads: [[reddit-sweep-2-people-ask-how-long-protection-holds]], [[reddit-sweep-2-talk-is-densest-in-china-belgium-brazil-and-indonesia]], [[reddit-sweep-2-search-gaps]], [[reddit-sweep-2-threads-open-to-a-question]]
 
 ### Not filed yet
 

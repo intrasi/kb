@@ -4,7 +4,7 @@ title: Where does AI reverse engineering cost someone money, and what do people 
 tags: [market, customer, security, idea]
 date: 2026-11-07
 by: karla
-status: open
+status: answered
 owner: karla
 ---
 
@@ -193,3 +193,49 @@ The final summary, in this order:
 - Parent question: [[do-people-need-ai-resistant-code-protection]].
 
 ## Answer
+
+Answered 2026-11-07 (Europe/Belgrade) from the second Reddit sweep. PR #1 is merged, so these notes are based on main rather than stacked on the sweep 1 branch. Raw rows, the browser check, the access log, and the search gaps: [[reddit-listener-ai-re-money-2026-11-07]]. A quote the browser check did not confirm stays needs-check in that file and in the notes. No crack, tool, or method link is included. Usernames and stated roles only.
+
+### Where the money shows up
+
+1. [[reddit-sweep-2-game-launch-window-is-where-the-money-shows-up]]
+2. [[reddit-sweep-2-paid-desktop-apps-and-plugins-lose-local-checks]]
+3. [[reddit-sweep-2-mobile-entitlements-and-banking-shielding-trust-the-client]]
+4. [[reddit-sweep-2-ai-speed-is-not-a-reported-third-party-loss]]
+5. [[reddit-sweep-2-game-drm-timing-rows-do-not-name-ai]]
+
+### Objections
+
+- [[reddit-sweep-2-objection-pirated-copies-are-not-lost-sales]]
+- [[reddit-sweep-2-objection-client-side-protection-is-called-futile]]
+- [[reddit-sweep-2-objection-cpp-decompilation-is-still-hard-for-llms]]
+
+### Controversies
+
+- [[reddit-sweep-2-controversy-obscurity-or-time-bought]]
+- [[reddit-sweep-2-controversy-ai-may-not-make-client-protection-obsolete]]
+- [[reddit-sweep-2-controversy-studios-are-said-to-keep-paying-denuvo]]
+- [[reddit-sweep-2-controversy-kernel-anti-cheat-called-invasive-and-ineffective]]
+- [[reddit-sweep-2-right-to-repair-threads-not-found-owner-lockout-was]]
+- [[reddit-sweep-2-legality-threads-not-found-except-a-lab-refusal]]
+- [[reddit-sweep-2-open-source-the-client-posts-were-deleted]]
+- [[reddit-sweep-2-dual-use-shows-analyst-speed-not-a-malware-argument]]
+- [[reddit-sweep-2-formal-proof-was-not-asked-for-breakage-was]]
+
+### Measurement
+
+[[reddit-sweep-2-people-ask-how-long-protection-holds]] contradicts [[reddit-sweep-found-no-ask-for-an-ai-crack-score]]. The sweep 1 note is kept.
+
+### Regions
+
+[[reddit-sweep-2-talk-is-densest-in-china-belgium-brazil-and-indonesia]]
+
+### Gaps
+
+[[reddit-sweep-2-search-gaps]]
+
+### Threads open to a question
+
+[[reddit-sweep-2-threads-open-to-a-question]] lists threads only. It has no drafts.
+
+This does not close [[do-people-need-ai-resistant-code-protection]]. The X listener is still open: [[where-does-ai-reverse-engineering-cost-money]].
