@@ -163,6 +163,37 @@ Find, source, and date each one. When two sources disagree, report both.
 
 ## Leads
 
-- Sourced market, loss, deal, survey, compliance, and gap records through cutoff 2026-11-07: [[code-protection-evidence-index]]. Schema: [[code-protection-evidence-schema]].
+Reddit is filed. Market, loss, deal, survey, compliance, and gap records are filed. The question stays `open` until the synthesiser merges every listener below. Do not edit a filed source. Add a new source, then a note per claim, and link both here.
+
+### Filed: Reddit listener (karla+cursor, checked 2026-11-07, Europe/Belgrade)
+
+Raw sweep, verbatim, including both `not found` rows, the comment shortlist, the read-only subreddits, and the coverage note: [[reddit-listener-code-protection-2026-11-07]].
+
+Notes, one per hypothesis, plus the adjacent row and the shortlist. Quotes in the notes are copied from that source. None of them is a verdict.
+
+- A1 [[reddit-comments-say-llms-undo-basic-obfuscation]]
+- A2 [[reddit-client-side-protection-spend-is-mixed]]
+- A3 [[reddit-obfuscation-breakage-shows-up-as-crashes-and-maintenance]]
+- A4 [[reddit-sweep-found-no-ask-for-an-ai-crack-score]]
+- A5 [[reddit-sweep-found-no-incumbent-ai-attacker-marketing]]
+- B1 [[reddit-weight-backdoor-comments-name-papers-and-supply-chain]]
+- B2 [[reddit-comments-say-weight-backdoors-are-hard-to-spot]]
+- Adjacent (behaviour-equivalence checking) [[reddit-asks-how-decompiled-output-is-checked-against-behavior]]
+- Where a comment is allowed, and which subreddits stayed read-only [[reddit-five-threads-open-to-a-technical-comment]]
+
+### Filed: market, loss, deal, survey, compliance, and gap records (karla+grok, cutoff 2026-11-07)
+
+Sourced records: [[code-protection-evidence-index]]. Schema: [[code-protection-evidence-schema]]. These are not a verdict, and they do not close this question.
+
+### Not filed yet
+
+- X listener.
+- GitHub, Hacker News, and community listener.
+- Competitor-claims checker. A5 above is the Reddit gap only. Vendor pages are still open (item 2 of [[code-protection-field-open-questions]]).
+- Budget and market-numbers researcher. Numeric records through cutoff 2026-11-07 are filed at [[code-protection-evidence-index]]. The Denuvo comment is not a market number. Listener quotes and the synthesis are still open.
+- Drafting agent. Drafts only; Karla sends. Read the shortlist note before drafting a Reddit comment. The sweep contains no drafts.
+- Synthesiser. Runs last. Writes `## Answer` and sets `status: answered`.
 
 ## Answer
+
+Not answered. Reddit is one listener. Market-number records are filed at [[code-protection-evidence-index]] and are not the synthesis. The synthesiser fills this section after the others file.
