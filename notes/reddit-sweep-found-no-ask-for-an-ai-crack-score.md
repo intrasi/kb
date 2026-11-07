@@ -6,7 +6,10 @@ date: 2026-11-07
 by: karla+cursor
 confidence: low
 sources: [reddit-listener-code-protection-2026-11-07]
+superseded_by: [[reddit-sweep-2-people-ask-how-long-protection-holds]]
 ---
+
+Sweep 2 contradicts the conclusion in this note. People did ask how long protection holds and whether it survives an LLM: [[reddit-sweep-2-people-ask-how-long-protection-holds]]. The table below is the sweep 1 record and is unchanged. Nothing here is deleted.
 
 Hypothesis A4 from [[do-people-need-ai-resistant-code-protection]]: people would value a measured "how hard is my app for AI to crack" score.
 
