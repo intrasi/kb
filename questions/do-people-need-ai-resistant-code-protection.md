@@ -163,7 +163,7 @@ Find, source, and date each one. When two sources disagree, report both.
 
 ## Leads
 
-Reddit is filed. Market, loss, deal, survey, compliance, and gap records are filed. The question stays `open` until the synthesiser merges every listener below. Do not edit a filed source. Add a new source, then a note per claim, and link both here.
+Reddit is filed. The 2026-11-07 GitHub and Hacker News bounded scan is filed. Market, loss, deal, survey, compliance, and gap records are filed. The question stays `open` until the synthesiser merges every listener below. Do not edit a filed source. Add a new source, then a note per claim, and link both here.
 
 ### Filed: Reddit listener (karla+cursor, checked 2026-11-07, Europe/Belgrade)
 
@@ -181,6 +181,10 @@ Notes, one per hypothesis, plus the adjacent row and the shortlist. Quotes in th
 - Adjacent (behaviour-equivalence checking) [[reddit-asks-how-decompiled-output-is-checked-against-behavior]]
 - Where a comment is allowed, and which subreddits stayed read-only [[reddit-five-threads-open-to-a-technical-comment]]
 
+### Filed: GitHub and Hacker News bounded scan (2026-11-07)
+
+2026-11-07 GitHub and Hacker News bounded scan. Twelve self-reports, with raw JSON kept apart from the notes: [[github-hn-scan-2026-11-07-index]]. A2 and A5 were not researched. A4 was searched and not found. This question stays open.
+
 ### Filed: market, loss, deal, survey, compliance, and gap records (karla+grok, cutoff 2026-11-07)
 
 Sourced records: [[code-protection-evidence-index]]. Schema: [[code-protection-evidence-schema]]. These are not a verdict, and they do not close this question.
@@ -188,7 +192,7 @@ Sourced records: [[code-protection-evidence-index]]. Schema: [[code-protection-e
 ### Not filed yet
 
 - X listener.
-- GitHub, Hacker News, and community listener.
+- GitHub, Hacker News, and community listener. The 2026-11-07 bounded scan is filed at [[github-hn-scan-2026-11-07-index]]. A2 and A5 were not researched. A4 was searched and not found. Anything outside that scan is still open.
 - Competitor-claims checker. A5 above is the Reddit gap only. Vendor pages are still open (item 2 of [[code-protection-field-open-questions]]).
 - Budget and market-numbers researcher. Numeric records through cutoff 2026-11-07 are filed at [[code-protection-evidence-index]]. The Denuvo comment is not a market number. Listener quotes and the synthesis are still open.
 - Drafting agent. Drafts only; Karla sends. Read the shortlist note before drafting a Reddit comment. The sweep contains no drafts.
@@ -196,4 +200,4 @@ Sourced records: [[code-protection-evidence-index]]. Schema: [[code-protection-e
 
 ## Answer
 
-Not answered. Reddit is one listener. Market-number records are filed at [[code-protection-evidence-index]] and are not the synthesis. The synthesiser fills this section after the others file.
+Not answered. Reddit is one listener. The GitHub and Hacker News bounded scan is filed at [[github-hn-scan-2026-11-07-index]] and is not the synthesis. Market-number records are filed at [[code-protection-evidence-index]] and are not the synthesis. The synthesiser fills this section after the others file.
