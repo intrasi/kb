@@ -29,6 +29,7 @@ Question 4 is the one that decides the shape, so do it first; it is also the che
 
 ## Leads
 
+- Saved conversation research, 2026-11-07: [[verified-obfuscation-could-reduce-protection-engineering-effort]] states the unvalidated engineering-effort hypothesis and a bounded experiment. [[obfuscation-is-common-in-popular-android-apps]] records adoption measurements with denominator limits; [[production-obfuscation-can-target-a-small-part-of-an-app]] records production scope and overhead. [[verified-obfuscation-research-links]] adds paper URLs, competitor disclosures, and evidence qualifications. This adds evidence for items 2, 3, and 6; production verification scale, customer interviews, and the overall decision remain open.
 - Luka's supplied reading list (2026-11-07): [[verified-obfuscation-reading-list-2026-11-07]]. Fourteen paper references and two additional sources covering verified transformations, AI-selected obfuscation, and AI reverse engineering. Start with entries 1, 2, 8, and 13. Bibliographic details and paper claims remain unverified; this is context for items 3, 4, and 6, not an answer to them.
 - Project description: [[code-protection-project-description]].
 - Public listening and budget numbers, owned by Karla: [[do-people-need-ai-resistant-code-protection]].
