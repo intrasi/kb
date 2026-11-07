@@ -15,3 +15,4 @@ One tag per line, `- tag: meaning`. `scripts/kb.py check` rejects tags missing h
 - human: needs a human answer
 - security: software protection, attacker behaviour, security buyers
 - formal-methods: proofs, equivalence checking, solvers
+- pitch: deck, narrative, pitch delivery, and judge Q&A
