@@ -4,7 +4,7 @@ title: Which offline and online artifacts expose valuable intelligence through r
 tags: [security, market, customer, agents]
 date: 2026-11-07
 by: luka+codex
-status: open
+status: answered
 owner: luka+codex
 ---
 
@@ -18,4 +18,12 @@ Follow-up to the customer landscape and incident research: distinguish obtaining
 
 ## Answer
 
-Research in progress.
+Internet connectivity is not required to analyze an accessible software or hardware artifact. Generic product knowledge and installation-specific secrets have different access prerequisites. The detailed map covers 20 target families, 10 kinds of small intelligence clues, concrete primary-source examples, and product boundaries.
+
+- [[reverse-engineering-needs-an-accessible-artifact-not-an-internet-connected-target]]
+- [[reverse-engineering-targets-and-intelligence-map]] — detailed Serbian-language map for Luka.
+- [[ai-plc-targeting-is-documented-but-does-not-show-an-obfuscation-failure]] — new August 2026 government evidence, qualified separately from binary RE and algorithm theft.
+- [[what-code-obfuscation-can-and-cannot-protect-in-shipped-products]]
+- [[reverse-engineering-artifacts-web-excerpts-2026-11-07]] — 17 original-source excerpts.
+
+No attacks, sample extraction, interviews or outreach were performed. This maps technical exposure; the scale of AI-driven losses, current buyer dissatisfaction and willingness to pay remain unvalidated.
