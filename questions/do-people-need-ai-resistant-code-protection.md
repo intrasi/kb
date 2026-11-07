@@ -163,4 +163,6 @@ Find, source, and date each one. When two sources disagree, report both.
 
 ## Leads
 
+- 2026-11-07 GitHub and Hacker News bounded scan. Twelve self-reports, with raw JSON kept apart from the notes: [[github-hn-scan-2026-11-07-index]]. A2 and A5 were not researched. A4 was searched and not found. This question stays open.
+
 ## Answer
