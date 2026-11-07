@@ -198,6 +198,21 @@ Sourced records: [[code-protection-evidence-index]]. Schema: [[code-protection-e
 - Drafting agent. Drafts only; Karla sends. Read the shortlist note before drafting a Reddit comment. The sweep contains no drafts.
 - Synthesiser. Runs last. Writes `## Answer` and sets `status: answered`.
 
+### Filed: reverse-engineering desk research (tea+claude, checked 2026-11-07)
+
+Desk research, not public listening, so it does not replace any listener above. Raw reports and
+the dossier: [[re-defense-dossier]], [[re-dossier-05-competitors-market-funding]],
+[[re-dossier-06-legal-verticals-harness]]. Notes checked against primary sources, none a verdict:
+
+- A2 and the numbers: [[re-in-app-protection-16b-figure-has-no-source]],
+  [[re-code-protection-vendors-mostly-pe-owned]]
+- A4: [[re-compliance-requires-resilience-not-method]],
+  [[re-sre-bench-measures-hardening-lift-on-private-binaries]],
+  [[re-open-configurable-lift-benchmark-is-the-remaining-gap]]
+- A5 (vendor AI claims): [[re-protection-buys-cost-not-impossibility]],
+  [[re-stacked-obfuscation-passes-cut-llm-success-in-vendor-study]]
+- Unverified items: [[re-research-gaps-to-verify]]
+
 ## Answer
 
 Not answered. Reddit is one listener. The GitHub and Hacker News bounded scan is filed at [[github-hn-scan-2026-11-07-index]] and is not the synthesis. Market-number records are filed at [[code-protection-evidence-index]] and are not the synthesis. The synthesiser fills this section after the others file.

@@ -35,5 +35,44 @@ Question 4 is the one that decides the shape, so do it first; it is also the che
 - Reddit listener only, checked 2026-11-07, not a verdict on items 1, 2, or 5. Raw sweep: [[reddit-listener-code-protection-2026-11-07]]. A2 (who already pays) is mixed and has no price: [[reddit-client-side-protection-spend-is-mixed]]. A4 and A5 were recorded as `not found` on Reddit: [[reddit-sweep-found-no-ask-for-an-ai-crack-score]], [[reddit-sweep-found-no-incumbent-ai-attacker-marketing]]. Incumbent pages are still open.
 - Sourced market, loss, deal, survey, compliance, and gap records through cutoff 2026-11-07: [[code-protection-evidence-index]]. Schema: [[code-protection-evidence-schema]]. These are not a verdict on item 1.
 - GitHub and Hacker News breakage and reversing reports from the 2026-11-07 scan: [[github-hn-scan-2026-11-07-index]]. Incumbent claims and equivalence limits remain open.
+- Tea's reverse-engineering desk research (tea+claude, checked 2026-11-07). Raw reports and the
+  six-module dossier: [[re-defense-dossier]], [[re-agentic-resilience-benchmark-source-pack]],
+  [[re-2026-cases-patterns-defenses]], [[re-deep-research-2026]], [[re-global-quantitative-taxonomy]].
+  Twenty notes checked against primary sources are linked under `## Answer`; open items are in
+  [[re-research-gaps-to-verify]].
 
 ## Answer
+
+Partial, 2026-11-07, by tea+claude. Every linked note was checked against its primary source;
+open gaps are tracked in [[re-research-gaps-to-verify]]. Status stays open until items 2, 3 and 5
+are done.
+
+1. Market size: use Karla's sourced records in [[code-protection-evidence-index]]; drop $16.2B.
+   [[re-in-app-protection-16b-figure-has-no-source]], [[re-code-protection-vendors-mostly-pe-owned]],
+   [[re-compliance-requires-resilience-not-method]].
+2. Incumbent claims about machine analysis: Thales and Promon publish agent and LLM studies
+   ([[re-protection-buys-cost-not-impossibility]],
+   [[re-stacked-obfuscation-passes-cut-llm-success-in-vendor-study]]). Not yet read: Guardsquare,
+   Jscrambler, Digital.ai.
+3. Proof of equivalence: academia has Coq-verified flattening and MBA; no product has been checked
+   yet. [[re-verified-obfuscation-exists-in-academia]],
+   [[re-adaptive-llm-obfuscation-exists-only-at-source-level]].
+4. Function size: proofs scale to thousands of lines only when the versions are structurally
+   similar, and obfuscation removes that similarity. MBA breaks the solver.
+   [[re-equivalence-proofs-scale-with-structural-similarity]],
+   [[re-mba-obfuscation-defeats-smt-equivalence-proofs]].
+5. Who signs: still open; needs buyer conversations, which a human sends.
+6. Honest measurement: possible with an external oracle plus differential fuzzing, lift with
+   confidence intervals, and refusals reported separately. SRE-Bench is the closest prior work.
+   [[re-sre-bench-measures-hardening-lift-on-private-binaries]],
+   [[re-open-configurable-lift-benchmark-is-the-remaining-gap]],
+   [[re-shipped-tests-miss-decompiler-divergence]],
+   [[re-benchmark-harness-must-be-hardened-against-agent-cheating]],
+   [[re-frontier-agents-score-under-8-percent-on-malwarebench]].
+
+Build-relevant notes: [[re-agents-route-around-obfuscation]],
+[[re-llm-deobfuscation-ranking-by-technique-is-unsettled]],
+[[re-free-llvm-obfuscators-plugin-or-source-build]],
+[[re-tigress-virtualization-costs-42-to-247x-runtime]],
+[[re-binary-prompt-injection-tested-only-on-small-models]],
+[[re-benchmark-self-authored-binaries-for-legal-safety]].
