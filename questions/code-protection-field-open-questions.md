@@ -29,4 +29,7 @@ Question 4 is the one that decides the shape, so do it first; it is also the che
 
 ## Leads
 
+- Project description: [[code-protection-project-description]].
+- Public listening and budget numbers, owned by Karla: [[do-people-need-ai-resistant-code-protection]].
+
 ## Answer
