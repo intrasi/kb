@@ -4,7 +4,7 @@ title: What demonstrates protection demand and workflow pain in CAD simulation, 
 tags: [customer, market, security, formal-methods]
 date: 2026-11-07
 by: luka+codex
-status: open
+status: answered
 owner: luka+codex
 ---
 
@@ -17,4 +17,11 @@ User-requested deeper web investigation of these three segments following the br
 
 ## Answer
 
-Research in progress.
+[[cad-forensics-and-sdk-protection-have-different-buying-triggers-and-pilot-fit]] compares the segments, ranks interview/pilot hypotheses and lists eight named leads with qualification questions.
+
+- [[cad-and-simulation-vendors-protect-formulas-but-much-reported-pain-is-license-operations]]
+- [[forensic-software-buys-protection-but-correctness-evidence-and-customer-consolidation-limit-entry]]
+- [[commercial-sdk-protection-demand-is-real-but-abi-and-host-integration-need-separate-validation]]
+- [[cad-forensics-sdk-demand-web-excerpts-2026-11-07]]
+
+All three show protection-category adoption; no named current buyer for our combined AI/formal-verification approach was established. DME is part of Magnet, not an independent present-day prospect. No outreach was sent.
