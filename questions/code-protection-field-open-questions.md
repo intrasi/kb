@@ -31,6 +31,7 @@ Question 4 is the one that decides the shape, so do it first; it is also the che
 
 - Project description: [[code-protection-project-description]].
 - Public listening and budget numbers, owned by Karla: [[do-people-need-ai-resistant-code-protection]].
+- Reddit listener only, checked 2026-11-07, not a verdict on items 1, 2, or 5. Raw sweep: [[reddit-listener-code-protection-2026-11-07]]. A2 (who already pays) is mixed and has no price: [[reddit-client-side-protection-spend-is-mixed]]. A4 and A5 were recorded as `not found` on Reddit: [[reddit-sweep-found-no-ask-for-an-ai-crack-score]], [[reddit-sweep-found-no-incumbent-ai-attacker-marketing]]. Incumbent pages and market-size numbers are still open.
 - GitHub and Hacker News breakage and reversing reports from the 2026-11-07 scan: [[github-hn-scan-2026-11-07-index]]. Market size, incumbent claims, and equivalence limits remain open.
 
 ## Answer
