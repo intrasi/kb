@@ -145,7 +145,7 @@ Capture both sides with quotes. Judges will ask about these.
   1. Site search through a web search engine: `site:reddit.com/r/<sub> "<term>"`.
   2. Reddit's own search: `https://www.reddit.com/r/<sub>/search.json?q=<term>&restrict_sr=1&sort=top&t=year`, at about one request every 2 seconds, with a descriptive user agent.
   3. Thread JSON (`<thread-url>.json`) to read the full comment tree.
-- **Read the comments, not only the posts.** The experience sits in the replies. Sort comments by top, then scan the controversial sort for objections.
+- **Read the comment trees as well as the posts.** The experience sits in the replies. Sort comments by top, then scan the controversial sort for objections.
 - **Operators.** Combine words with `AND`, `OR`, and quotes, plus `title:` and `selftext:`. Combine section 5's industry terms with these attack terms: `reverse engineer`, `decompile`, `deobfuscate`, `cracked`, `cloned`, `bypass`, `AI`, `LLM`, `Claude`, `ChatGPT`.
 - **Commentability.** For each strong thread, record whether it is archived and what the subreddit's rules say about self-promotion and research questions. A human may later choose to reply, and nobody comments now.
 
