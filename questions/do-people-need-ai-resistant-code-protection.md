@@ -163,4 +163,6 @@ Find, source, and date each one. When two sources disagree, report both.
 
 ## Leads
 
+- Sourced market, loss, deal, survey, compliance, and gap records through cutoff 2026-11-07: [[code-protection-evidence-index]]. Schema: [[code-protection-evidence-schema]].
+
 ## Answer
