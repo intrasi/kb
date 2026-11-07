@@ -20,11 +20,62 @@ Field meanings:
 - `confidence`: `high`, `moderate` or `low`, for the record as a whole.
 - `re_central`: `yes` when reverse engineering of software, firmware, protocols or models is the core of the
   incident; `borderline` when it is adjacent (leaks, clones, enforcement, circumvention devices); `no` when it
-  is not reverse engineering (kept for context). Count only `yes` when sizing the problem.
+  is not reverse engineering (kept for context). Count only `yes` when sizing the problem, or use the stricter subset below.
 
 Why it matters: the strongest 2026 evidence for our thesis is AI-assisted reverse engineering by real attackers
 (`RE-INC-026`, `RE-INC-027`, `RE-INC-028`) and on-device secrets and keys (`RE-INC-027`, `RE-INC-030`, `RE-INC-032`).
 See [[re-agents-route-around-obfuscation]] and [[re-protection-buys-cost-not-impossibility]].
+
+## Strict reverse-engineering subset
+
+Rule (Tea, 2026-11-07): Reverse engineering happened when someone analysed a shipped artifact (binary, app, firmware, protocol, chip) or a model to recover how it works inside: its logic, keys or parameters. 21 of 40 records qualify; use these when the question is
+"where did reverse engineering happen". The `re_central` field above is looser and stays as it was.
+
+| ID | Date | Target | What was reversed | Who reversed |
+| --- | --- | --- | --- | --- |
+| `RE-INC-032` | 2026-11-04 | Tata Motors iRA 2.0 and iRA.ev apps | mobile app packages | researcher |
+| `RE-INC-028` | 2026-10-22 | Nintendo Switch 2 (firmware 23.0.1) | console firmware and apps | researcher |
+| `RE-INC-033` | 2026-09-14 | Denuvo Anti-Tamper (26 games) | game DRM | attacker |
+| `RE-INC-026` | 2026-09 | Endpoint-security products and appliance firmware | security-product and appliance firmware | attacker |
+| `RE-INC-027` | 2026-09 | About 1.8 million Android apps | Android app packages | attacker |
+| `RE-INC-030` | 2026-07-21 | KARR-SWDS dealer anti-theft device | anti-theft device and its app | researcher |
+| `RE-INC-010` | 2026-03-21 | Denuvo in Crimson Desert and other games | game DRM | attacker |
+| `RE-INC-018` | 2026-03-19 | 1,243 financial apps in 90 countries | mobile banking apps | attacker |
+| `RE-INC-035` | 2026-03 | Original Xbox One boot ROM | console boot ROM and chip | researcher |
+| `RE-INC-024` | 2026-01-21 | Tesla infotainment, EV chargers, Automotive Grade Linux | car infotainment and charger firmware | researcher |
+| `RE-INC-038` | 2025-10-17 | WhatsApp client and protocol | messaging app and protocol | attacker |
+| `RE-INC-039` | 2025-01-30 | Contec CMS8000 patient monitor | medical-device firmware | defender |
+| `RE-INC-020` | 2024-05 | Activision Call of Duty (EngineOwning cheats) | game client memory | attacker |
+| `RE-INC-014` | 2024-03-29 | XZ Utils 5.6.0 and 5.6.1 (liblzma, sshd) | malicious build script and backdoored library | defender |
+| `RE-INC-003` | 2024-03-11 | OpenAI Ada, Babbage, gpt-3.5-turbo | AI model (black-box, through the API) | researcher |
+| `RE-INC-011` | 2024-03-04 | Nintendo Switch (Yuzu emulator) | console system software | developer |
+| `RE-INC-007` | 2023-12-05 | Apple iMessage and APNs | messaging protocol | developer |
+| `RE-INC-005` | 2021-08 | Apple NeuralHash (iOS 14.3) | AI model inside an OS binary | researcher |
+| `RE-INC-015` | 2017-05-13 | WannaCry ransomware | malware binary | defender |
+| `RE-INC-009` | 2010-12 | Sony PlayStation 3 code signing | console code-signing implementation | researcher |
+| `RE-INC-016` | 2010-06 | Siemens SIMATIC STEP 7 / WinCC (Stuxnet) | malware targeting industrial software | defender |
+
+Excluded, with the reason:
+
+- `RE-INC-001` Anthropic Claude: Distillation copies capability through the model's answers; nothing inside the model or code was recovered.
+- `RE-INC-002` Anthropic Claude API: Distillation and proxy relaying through the API; no internals recovered.
+- `RE-INC-004` OpenAI ChatGPT: Recovers training data, not how the model works inside.
+- `RE-INC-006` Meta LLaMA 1 weights: A leak of weights that were handed out; nobody reversed anything.
+- `RE-INC-008` Ticketmaster ticket limits: Account and card abuse to beat ticket limits; the FTC describes no reverse engineering.
+- `RE-INC-012` Toyota RAV4 CAN bus: The theft is a radio/CAN attack with a bought device. Reverse engineering happened only once, upstream, to build the gadget.
+- `RE-INC-013` John Deere repair software: A regulatory settlement over repair access; no reverse engineering is documented.
+- `RE-INC-017` 156,080 iOS App Store apps: Scanned app archives for plaintext secrets; the source says the apps were not decompiled.
+- `RE-INC-019` SQLite and other open-source projects (Big Sleep): Analysed source code, not a shipped artifact.
+- `RE-INC-021` OpenAI models: Distillation through model outputs (alleged).
+- `RE-INC-022` Google Gemini reasoning: Distillation through prompting; no internals recovered.
+- `RE-INC-023` US frontier AI models: Policy statement about distillation campaigns.
+- `RE-INC-025` Hugging Face infrastructure (ExploitGym incident): An AI agent intrusion into infrastructure, not reverse engineering.
+- `RE-INC-029` Call of Duty (Zenith/Devware cheats): A cheat lawsuit; the source does not describe reverse engineering.
+- `RE-INC-031` Fake Ledger Live app on Apple's App Store: A fake app impersonating Ledger; the source does not say Ledger's app was reversed.
+- `RE-INC-034` Anthropic Claude Code CLI (npm v2.1.88): Source code leaked through a packaging error; nothing was reversed.
+- `RE-INC-036` Nintendo Switch (MIG Switch devices): A court order against selling piracy devices; enforcement, not the reverse engineering itself.
+- `RE-INC-037` Google Search (SearchGuard): Scraping and bypassing a bot check; circumvention, not recovery of internals.
+- `RE-INC-040` Antivirus and static detection: Malware using AI to obfuscate itself; the opposite direction.
 
 ## Records by sector
 
