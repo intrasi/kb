@@ -32,6 +32,11 @@ confidence and must not be cited as fact.
 7. **Thales blog** naming Claude Opus 4.7 as the agent. Seen only in a search snippet; the press
    release names no model. Affects [[re-protection-buys-cost-not-impossibility]].
 
+8. **Incident records marked `partly verified`** in [[re-incident-records]]: `RE-INC-009` (PS3 nonce
+   details), `RE-INC-015` (WannaCry blog returned 403), `RE-INC-016` (Stuxnet centrifuge details),
+   `RE-INC-017` (Cybernews page returned 403; 400 vs 406 TB), `RE-INC-020` (EngineOwning docket
+   figures from snippets). Also `RE-INC-006`: find a primary source for the LLaMA leak.
+
 ## Absence claims to re-check before any pitch
 
 - No open, configurable lift benchmark with confidence intervals:
