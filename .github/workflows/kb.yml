@@ -1,0 +1,23 @@
+name: kb
+on:
+  push:
+    branches: [main]
+  pull_request:
+permissions:
+  contents: write
+jobs:
+  check-and-index:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - run: python3 scripts/kb.py check
+      - name: Regenerate INDEX.md
+        if: github.event_name == 'push'
+        run: |
+          python3 scripts/kb.py index
+          if ! git diff --quiet INDEX.md; then
+            git config user.name "kb-bot"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git commit -m "index: regenerate [skip ci]" INDEX.md
+            git pull --rebase && git push
+          fi
