@@ -58,6 +58,10 @@ with 7 models about $30k a year; release volume is real because devices ship bui
 
 **Differentiator:** an open, rerunnable AI time-to-break measurement. The behaviour proof alone is not
 unique for firmware ([[re-emproof-already-claims-proof-backed-firmware-obfuscation]]).
+Free open-source hardening against AI analysers now exists for app and web formats, and it claims
+verified runtime equivalence too, but it skips firmware and works by inflating files far beyond what
+device flash allows ([[re-free-open-source-ai-hardening-exists-for-app-formats-but-skips-firmware]]).
+That is another reason to sell into devices rather than apps.
 
 **Out of scope, honestly:**
 - Insider theft of source code.
