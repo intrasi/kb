@@ -31,7 +31,11 @@ So "obfuscation as a service" alone is not new, and "obfuscation with a proof" i
    repeatable product; Thales ran one vendor test on one app.
 3. **Data that compounds.** Every break-test shows which protections hold against which AI agents. That
    tells us what to change before the next release; a static protector does not learn.
-4. **Runs on their premises.** Device makers do not want firmware uploaded to a cloud.
+4. ~~**Runs on their premises.**~~ Not a moat: Emproof already offers both. Its FAQ (checked 2026-11-08,
+   https://emproof.com/en/faqs) says Nyx "can also be run from the cloud via our in-house servers"
+   (customers upload binaries) or "can be delivered within a Docker container" for in-house servers; it
+   runs as "a post-compilation step" from CLI or CI (GitLab, Makefile), sold as "a subscription licence
+   per supported Instruction Set Architecture". So firmware obfuscation as a service already exists.
 
 The proof of identical behaviour is **not** a moat; Emproof already claims it. It is table stakes.
 
