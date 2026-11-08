@@ -22,6 +22,6 @@ no understanding and is handled by hardware-bound licensing.
 
 Why it matters: "a competitor reverse-engineers Deere's software and puts it on another brand" is the
 case our product fits (porting needs understanding) but the one with the least evidence. Keep it in
-the vision, not as the lead use case ([[0003-use-case-vehicle-and-machine-control-firmware]]).
+the vision, not as the lead use case.
 Moderate confidence: figures come from search summaries and court/DOJ releases read by research agents.
 Checked 2026-11-08.
