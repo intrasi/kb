@@ -71,5 +71,4 @@ deals is about $2.5M ARR in year two. Pure assumptions.
   from a shipped consumer device ([[re-no-public-case-of-clones-copying-algorithms-from-shipped-consumer-devices]]).
   If interviews say copying happens through people or patents, value at risk drops and so does the price.
 - If the demo shows a small time-bought gap, the value story has nothing to stand on.
-- Buyers may compare us to free hardening tools; those skip firmware today
-  ([[re-free-open-source-ai-hardening-exists-for-app-formats-but-skips-firmware]]).
+- Buyers may compare us to free hardening tools; those skip firmware today (see decision 0003).
