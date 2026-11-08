@@ -4,7 +4,7 @@ title: Who exactly do we sell device-algorithm protection to first, which named 
 tags: [customer, market]
 date: 2026-11-08
 by: tea+claude
-status: open
+status: answered
 owner: tea+claude
 ---
 
@@ -21,4 +21,10 @@ that makes them buy now, and how to reach them (events, intros, Garaža mentors)
 
 ## Answer
 
-In progress.
+- [[first-customers-are-algorithm-licensors-and-european-device-makers-under-chinese-pressure]]: three
+  segments with named companies, the buyer roles inside them, why-now triggers, where to meet them, and a
+  first-ten outreach list with five discovery questions.
+- Raw material: [[first-customers-web-excerpts-2026-11-08]].
+
+Company facts are sourced; buying interest is untested. The next step is the first ten conversations.
+No outreach was sent.
