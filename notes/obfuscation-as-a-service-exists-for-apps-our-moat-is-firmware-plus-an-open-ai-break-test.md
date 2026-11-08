@@ -37,6 +37,11 @@ So "obfuscation as a service" alone is not new, and "obfuscation with a proof" i
    runs as "a post-compilation step" from CLI or CI (GitLab, Makefile), sold as "a subscription licence
    per supported Instruction Set Architecture". So firmware obfuscation as a service already exists.
 
+Emproof's solution page (https://emproof.com/en/solution, checked 2026-11-08) lists exploit mitigation,
+obfuscation, anti-tamper, platform security and anti-fuzzing for automotive, medical, aviation, industrial
+IoT and semiconductors. It does not mention AI or LLM-based reverse engineering, and it does not mention
+measuring how long an attacker needs.
+
 The proof of identical behaviour is **not** a moat; Emproof already claims it. It is table stakes.
 
 ## Weak spots
