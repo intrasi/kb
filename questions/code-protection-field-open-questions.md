@@ -42,6 +42,9 @@ Question 4 is the one that decides the shape, so do it first; it is also the che
   [[re-2026-cases-patterns-defenses]], [[re-deep-research-2026]], [[re-global-quantitative-taxonomy]].
   Twenty notes checked against primary sources are linked under `## Answer`; open items are in
   [[re-research-gaps-to-verify]].
+- Premium-unlock use case checked 2026-11-07 (tea+claude): [[re-modded-apps-cost-developers-iap-and-ad-revenue]],
+  [[re-server-side-entitlement-checks-are-the-standard-fix]], [[re-consumer-app-spending-167b-in-2025]],
+  [[re-on-device-ai-is-mostly-the-free-tier]].
 
 ## Answer
 

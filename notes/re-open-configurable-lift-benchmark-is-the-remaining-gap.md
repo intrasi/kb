@@ -25,6 +25,10 @@ Vendor studies:
 - Promon compares obfuscation passes with zero-shot prompts
   ([[re-stacked-obfuscation-passes-cut-llm-success-in-vendor-study]]).
 - No published AI-agent benchmark was found from Guardsquare or Digital.ai.
+- Update 2026-11-07: vendors now sell closed AI-resistance scores. Digital.ai offers to "use AI to
+  probe your app ... then score it"; EntropyJS scores every build; VeilCC sells "a measured number".
+  None publishes its method or claims a proof ([[competitor-claims-vendor-pages-2026-11-07]]). The gap
+  is the open, rerunnable method, not the existence of a score.
 
 The gap that survives: an *open* benchmark where the user chooses the protection configuration,
 reporting lift with confidence intervals and cost-to-break as a survival curve against budget.
