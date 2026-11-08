@@ -4,7 +4,8 @@ title: "Start with paid professional software (engineering/CAD, creative and aud
 tags: [idea, pitch, security, market, demo]
 date: 2026-11-07
 by: tea+claude
-status: active
+status: superseded
+superseded_by: [[0003-use-case-device-makers-against-competitor-reverse-engineering]]
 ---
 
 Proposed by Tea, who owns the use case; Luka builds the tech. Needs Karla's and Luka's agreement.
