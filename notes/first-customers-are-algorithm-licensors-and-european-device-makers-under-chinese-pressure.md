@@ -6,6 +6,7 @@ date: 2026-11-08
 by: tea+claude
 confidence: low
 sources: [first-customers-web-excerpts-2026-11-08, 0003-use-case-device-makers-against-competitor-reverse-engineering, napkin-math-120k-a-year-per-product-line-is-under-five-percent-of-value-at-risk]
+superseded_by: [[target-audience-is-consumer-electronics-makers-like-philips]]
 ---
 
 Customer map for [[0003-use-case-device-makers-against-competitor-reverse-engineering]]. Facts about the

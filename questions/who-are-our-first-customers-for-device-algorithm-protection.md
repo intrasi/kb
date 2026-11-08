@@ -21,6 +21,8 @@ that makes them buy now, and how to reach them (events, intros, Garaža mentors)
 
 ## Answer
 
+- **Current answer (Tea, 2026-11-08):** [[target-audience-is-consumer-electronics-makers-like-philips]].
+  The longer map below is kept for reference.
 - [[first-customers-are-algorithm-licensors-and-european-device-makers-under-chinese-pressure]]: three
   segments with named companies, the buyer roles inside them, why-now triggers, where to meet them, and a
   first-ten outreach list with five discovery questions.
